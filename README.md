@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! ✨
 
 - 👋 Hi, I’m Juwita Margaretta
 - 👋 I’m a mentee on IBM Advance AI at Infinite Learning
